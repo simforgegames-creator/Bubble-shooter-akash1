@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "608422625124",
+    "firebase_url": "https://bubble-shooter-blaze-default-rtdb.firebaseio.com",
+    "project_id": "bubble-shooter-blaze",
+    "storage_bucket": "bubble-shooter-blaze.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608422625124:android:9cdf6555a81c98bb2b0471",
+        "android_client_info": {
+          "package_name": "com.games.bubble.shooter.blaze.games"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJLwH79sHxb4OnwNZasbwWvQmTE_OXYCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
