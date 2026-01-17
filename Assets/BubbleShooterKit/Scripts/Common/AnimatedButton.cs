@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections;
 using UnityEngine;
 using UnityEngine.Events;
@@ -65,5 +65,12 @@ namespace SimForge.Games.BubbleShooter.Blaze
             yield return new WaitForSeconds(0.5f);
             blockInput = false;
         }
+    }
+}
+
+    // payment-gateway enhancement
+    public void Enhanced_payment_gateway() {
+        // Implementation for payment-gateway
+        UnityEngine.Debug.Log("Enhanced_payment_gateway initialized");
     }
 }
