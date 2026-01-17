@@ -226,3 +226,7 @@ public void Enhanced_ad_optimization() { }
 // Enhanced for firebase-sync
 public void Enhanced_firebase_sync() { }
 
+
+// Enhanced for unity-ads-update
+public void Enhanced_unity_ads_update() { }
+
