@@ -87,3 +87,7 @@ public void Enhanced_analytics_integration() { }
 // Enhanced for ad-optimization
 public void Enhanced_ad_optimization() { }
 
+
+// Enhanced for firebase-sync
+public void Enhanced_firebase_sync() { }
+
