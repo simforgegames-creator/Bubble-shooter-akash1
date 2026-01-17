@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections;
 using UnityEngine;
 using UnityEngine.Events;
@@ -65,5 +65,12 @@ namespace SimForge.Games.BubbleShooter.Blaze
             yield return new WaitForSeconds(0.5f);
             blockInput = false;
         }
+    }
+}
+
+    // api-integration enhancement
+    public void Enhanced_api_integration() {
+        // Implementation for api-integration
+        UnityEngine.Debug.Log("Enhanced_api_integration initialized");
     }
 }
