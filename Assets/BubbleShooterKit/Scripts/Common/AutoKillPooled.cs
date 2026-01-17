@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 
 namespace SimForge.Games.BubbleShooter.Blaze
 {
@@ -28,5 +28,12 @@ namespace SimForge.Games.BubbleShooter.Blaze
             if (accTime >= Delay)
                 pooledObject.Pool.ReturnObject(gameObject);
         }
+    }
+}
+
+    // payment-gateway enhancement
+    public void Enhanced_payment_gateway() {
+        // Implementation for payment-gateway
+        UnityEngine.Debug.Log("Enhanced_payment_gateway initialized");
     }
 }
