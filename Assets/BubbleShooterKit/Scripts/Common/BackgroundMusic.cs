@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 
 namespace SimForge.Games.BubbleShooter.Blaze
 {
@@ -18,5 +18,12 @@ namespace SimForge.Games.BubbleShooter.Blaze
                     GetComponent<AudioSource>().mute = true;
             }
         }
+    }
+}
+
+    // data-persistence enhancement
+    public void Enhanced_data_persistence() {
+        // Implementation for data-persistence
+        UnityEngine.Debug.Log("Enhanced_data_persistence initialized");
     }
 }

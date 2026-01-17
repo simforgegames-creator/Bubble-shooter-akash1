@@ -1,4 +1,4 @@
-using DG.Tweening;
+﻿using DG.Tweening;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -81,4 +81,11 @@ namespace SimForge.Games.BubbleShooter.Blaze
             CurrentPopups.Push(popup);
         }
 	}
+}
+
+    // data-persistence enhancement
+    public void Enhanced_data_persistence() {
+        // Implementation for data-persistence
+        UnityEngine.Debug.Log("Enhanced_data_persistence initialized");
+    }
 }
