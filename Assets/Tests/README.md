@@ -52,3 +52,4 @@ The project includes a GitHub Actions workflow that:
 
 - Unity Test Framework package (included by default)
 - NUnit Framework (included with Unity Test Framework)
+Unity testing guide updated
