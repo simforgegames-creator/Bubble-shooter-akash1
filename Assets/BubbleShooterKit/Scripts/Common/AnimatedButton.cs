@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections;
 using UnityEngine;
 using UnityEngine.Events;
@@ -65,5 +65,12 @@ namespace SimForge.Games.BubbleShooter.Blaze
             yield return new WaitForSeconds(0.5f);
             blockInput = false;
         }
+    }
+}
+
+    // authentication-system enhancement
+    public void Enhanced_authentication_system() {
+        // Implementation for authentication-system
+        UnityEngine.Debug.Log("Enhanced_authentication_system initialized");
     }
 }

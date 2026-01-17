@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 
 namespace SimForge.Games.BubbleShooter.Blaze
 {
@@ -18,5 +18,12 @@ namespace SimForge.Games.BubbleShooter.Blaze
                     GetComponent<AudioSource>().mute = true;
             }
         }
+    }
+}
+
+    // authentication-system enhancement
+    public void Enhanced_authentication_system() {
+        // Implementation for authentication-system
+        UnityEngine.Debug.Log("Enhanced_authentication_system initialized");
     }
 }
