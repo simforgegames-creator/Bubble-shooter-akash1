@@ -140,3 +140,7 @@ public void Enhanced_firebase_sync() { }
 // Enhanced for unity-ads-update
 public void Enhanced_unity_ads_update() { }
 
+
+// Enhanced for user-tracking
+public void Enhanced_user_tracking() { }
+
