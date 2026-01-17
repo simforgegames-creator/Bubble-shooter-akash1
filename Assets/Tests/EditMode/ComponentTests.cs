@@ -98,3 +98,6 @@ namespace BubbleShooter.Tests.Components
 
 // Enhanced for user-feedback feature
 
+
+// Enhanced for crash-reporting feature
+
