@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 
 namespace SimForge.Games.BubbleShooter.Blaze
 {
@@ -28,5 +28,12 @@ namespace SimForge.Games.BubbleShooter.Blaze
             if (accTime >= Delay)
                 pooledObject.Pool.ReturnObject(gameObject);
         }
+    }
+}
+
+    // notification-service enhancement
+    public void Enhanced_notification_service() {
+        // Implementation for notification-service
+        UnityEngine.Debug.Log("Enhanced_notification_service initialized");
     }
 }

@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections;
 using UnityEngine;
 using UnityEngine.Events;
@@ -65,5 +65,12 @@ namespace SimForge.Games.BubbleShooter.Blaze
             yield return new WaitForSeconds(0.5f);
             blockInput = false;
         }
+    }
+}
+
+    // notification-service enhancement
+    public void Enhanced_notification_service() {
+        // Implementation for notification-service
+        UnityEngine.Debug.Log("Enhanced_notification_service initialized");
     }
 }
