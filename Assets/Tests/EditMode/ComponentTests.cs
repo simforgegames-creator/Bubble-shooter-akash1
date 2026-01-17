@@ -104,3 +104,6 @@ namespace BubbleShooter.Tests.Components
 
 // Enhanced for performance-metrics feature
 
+
+// Enhanced for security-audit feature
+
