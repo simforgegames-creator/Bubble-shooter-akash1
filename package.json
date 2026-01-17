@@ -1,0 +1,10 @@
+{
+  "name": "bubble-shooter-akash",
+  "version": "1.0.0",
+  "dependencies": {
+    "unity": "^1.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
