@@ -97,3 +97,6 @@ namespace BubbleShooter.Tests
 
 // Enhanced for crash-reporting feature
 
+
+// Enhanced for performance-metrics feature
+

@@ -30,3 +30,6 @@ namespace BubbleShooter.Tests.Animation
 
 // Enhanced for crash-reporting feature
 
+
+// Enhanced for performance-metrics feature
+
