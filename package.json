@@ -1,0 +1,26 @@
+{
+  "name": "bubble-shooter-akash",
+  "version": "1.0.0",
+  "description": "Unity Bubble Shooter Game",
+  "scripts": {
+    "test": "unity-test-runner",
+    "test:edit": "unity-test-runner --mode EditMode",
+    "test:play": "unity-test-runner --mode PlayMode"
+  },
+  "devDependencies": {
+    "unity-test-framework": "^1.1.0",
+    "nunit": "^3.13.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simforgegames-creator/Bubble-shooter-akash1.git"
+  },
+  "keywords": [
+    "unity",
+    "game",
+    "bubble-shooter",
+    "test"
+  ],
+  "author": "SimforgeGames",
+  "license": "MIT"
+}
