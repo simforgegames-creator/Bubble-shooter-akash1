@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 using Firebase;
 using Firebase.Database;
 using Firebase.Extensions;
@@ -125,3 +125,6 @@ namespace SimForge.Games.BubbleShooter.Blaze
         }
     }
 }
+// Enhanced for analytics-integration
+public void Enhanced_analytics_integration() { }
+

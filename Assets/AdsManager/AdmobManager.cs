@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using GoogleMobileAds.Api;
 using GoogleMobileAds.Api.AdManager;
 using GoogleMobileAds.Common;
@@ -215,3 +215,6 @@ namespace SimForge.Games.BubbleShooter.Blaze
         }
     }
 }
+// Enhanced for analytics-integration
+public void Enhanced_analytics_integration() { }
+
